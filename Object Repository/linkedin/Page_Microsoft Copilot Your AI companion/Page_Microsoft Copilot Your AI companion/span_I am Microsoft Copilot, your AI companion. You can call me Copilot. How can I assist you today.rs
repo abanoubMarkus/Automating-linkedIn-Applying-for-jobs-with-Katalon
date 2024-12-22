@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_I am Microsoft Copilot, your AI companion. You can call me Copilot. How can I assist you today</name>
+   <tag></tag>
+   <elementGuidId>95a813d4-4f73-4cf4-89e4-fce024aacdf7</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p > span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='space-y-3 break-words']//p//span</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;I am Microsoft Copilot, your AI companion. You can call me Copilot. How can I as&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>31392132-2a4c-4776-a711-e1f0587a8f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I am Microsoft Copilot, your AI companion. You can call me Copilot. How can I assist you today?</value>
+      <webElementGuid>315e193f-312c-43e2-9fc6-c75e170fc657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nj4ZTGCzGtbqoN73mMkxK-content&quot;)/p[1]/span[1]</value>
+      <webElementGuid>9fc78c04-e1d5-4441-a159-b3672905d4f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nj4ZTGCzGtbqoN73mMkxK-content']/p/span</value>
+      <webElementGuid>44d82850-4a43-470d-b1fd-86c687adadb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copilot said'])[1]/following::span[1]</value>
+      <webElementGuid>dcca9153-4478-4b1f-bd6d-9ec645a14e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='what is ur name'])[1]/following::span[1]</value>
+      <webElementGuid>de741a8c-929b-4c34-9b15-050827dd1b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message Copilot'])[1]/preceding::span[1]</value>
+      <webElementGuid>400ae8ee-ad30-4e70-882d-9620f1230c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I']/parent::*</value>
+      <webElementGuid>99ad5853-2e4d-47ca-a5b3-a7ededd54f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>2152b4f5-e0dd-4aa2-9983-00b6174e34ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'I am Microsoft Copilot, your AI companion. You can call me Copilot. How can I assist you today?' or . = 'I am Microsoft Copilot, your AI companion. You can call me Copilot. How can I assist you today?')]</value>
+      <webElementGuid>b231e643-b6b3-4ab5-9c84-75e849a057ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

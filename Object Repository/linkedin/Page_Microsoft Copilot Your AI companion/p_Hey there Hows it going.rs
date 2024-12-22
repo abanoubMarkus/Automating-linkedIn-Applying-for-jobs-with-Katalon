@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hey there Hows it going</name>
+   <tag></tag>
+   <elementGuidId>947b0643-3653-4464-91df-9b27e863688f</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oD3YWnY5LatcsA2Mu9QCC-content']/p</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>096b5ef3-06ec-483b-8cc6-bdc48f884bf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hey there! How's it going? 😊</value>
+      <webElementGuid>45623a41-fe24-4c88-9ce9-af6756293814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oD3YWnY5LatcsA2Mu9QCC-content&quot;)/p[1]</value>
+      <webElementGuid>815f4eb8-1d8a-40de-bcd0-ef5693e7977d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oD3YWnY5LatcsA2Mu9QCC-content']/p</value>
+      <webElementGuid>66888af7-85e6-4d41-88d8-3cb49c7f9d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copilot said'])[1]/following::p[1]</value>
+      <webElementGuid>89f4c3f3-250c-44e4-9212-7a06c8c8bbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hi'])[1]/following::p[1]</value>
+      <webElementGuid>cc026fe8-cbfe-4363-b653-f165fc671710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message Copilot'])[1]/preceding::p[1]</value>
+      <webElementGuid>21aaa007-5fd2-43b5-bda7-f0d02d4bd85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1f3a0f85-ec02-427f-ad2a-31657ed31e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Hey there! How&quot; , &quot;'&quot; , &quot;s it going? 😊&quot;) or . = concat(&quot;Hey there! How&quot; , &quot;'&quot; , &quot;s it going? 😊&quot;))]</value>
+      <webElementGuid>7fe95c09-ccfa-4dc4-a279-2285ff5ff77e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

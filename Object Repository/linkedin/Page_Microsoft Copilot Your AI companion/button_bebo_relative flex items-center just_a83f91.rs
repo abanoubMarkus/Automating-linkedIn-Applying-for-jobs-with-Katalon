@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_bebo_relative flex items-center just_a83f91</name>
+   <tag></tag>
+   <elementGuidId>d1dc41e2-5fb3-47d1-bd25-e7bdcccd82ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Submit message&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f7410147-64de-4cfc-a469-9083232a5e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41f3b999-0106-4c32-9c94-b1398fb82fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex items-center justify-center text-foreground-800 fill-foreground-800 active:text-foreground-600 active:fill-foreground-600 dark:active:text-foreground-650 dark:active:fill-foreground-650 bg-spot-peach-300 hover:bg-spot-peach-350 active:bg-spot-peach-250 dark:bg-slate-600 dark:hover:bg-slate-550 dark:active:bg-slate-600/80 text-xs size-9 rounded-xl before:rounded-xl before:absolute before:inset-0 before:pointer-events-none before:border before:border-transparent before:contrast-more:border-2 outline-2 outline-offset-1 focus-visible:z-[1] focus-visible:outline focus-visible:outline-stroke-900 rounded-submitButton</value>
+      <webElementGuid>7d4464d2-f496-4edc-a94f-1afba7dbae9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Submit message</value>
+      <webElementGuid>9ed2968d-d565-49bb-847d-bb08e4a6b43a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Submit message</value>
+      <webElementGuid>8a66c695-e385-405c-8394-eaff6a5ea414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[@class=&quot;relative overflow-hidden&quot;]/div[@class=&quot;h-dvh&quot;]/aside[@class=&quot;flex size-full flex-col overflow-auto px-6 pb-2 sm:pb-3&quot;]/div[@class=&quot;flex grow items-center justify-center pb-3&quot;]/div[@class=&quot;flex size-full flex-col&quot;]/div[@class=&quot;z-20 flex w-full flex-col items-center justify-center space-y-2&quot;]/div[@class=&quot;flex grow items-end border border-stroke-200 bg-white shadow-lg focus-within:border-stroke-250 focus-within:hover:border-stroke-350 focus-within:shadow-xl hover:border-stroke-300 hover:shadow-xl dark:bg-background-static-750 rounded-2xl sm:w-96&quot;]/div[@class=&quot;relative bottom-0 my-1.5 flex h-9 items-center mx-1.5 w-auto gap-1&quot;]/div[1]/button[@class=&quot;relative flex items-center justify-center text-foreground-800 fill-foreground-800 active:text-foreground-600 active:fill-foreground-600 dark:active:text-foreground-650 dark:active:fill-foreground-650 bg-spot-peach-300 hover:bg-spot-peach-350 active:bg-spot-peach-250 dark:bg-slate-600 dark:hover:bg-slate-550 dark:active:bg-slate-600/80 text-xs size-9 rounded-xl before:rounded-xl before:absolute before:inset-0 before:pointer-events-none before:border before:border-transparent before:contrast-more:border-2 outline-2 outline-offset-1 focus-visible:z-[1] focus-visible:outline focus-visible:outline-stroke-900 rounded-submitButton&quot;]</value>
+      <webElementGuid>29a4ad4d-6ce8-4c9e-a87b-6e533929e70a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>0beb0ef3-d34a-4342-b318-2e21def47870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div[2]/aside/div/div/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>8fb5cdeb-898c-47b3-9b39-ab8da51d1768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bebo'])[1]/following::button[1]</value>
+      <webElementGuid>192d14d0-ae84-4548-a193-6b7a6a9ce273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your first name'])[1]/following::button[1]</value>
+      <webElementGuid>38b050d2-afdc-4613-9cd5-b1a6cb816fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[1]</value>
+      <webElementGuid>56c99422-aeae-449c-9a2e-dcd20adaff5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/preceding::button[1]</value>
+      <webElementGuid>f56acd9e-5786-42ec-91d2-5cd40d8e89f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>5839d0b9-b0fb-4bf5-b928-0a588d39f23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Submit message']</value>
+      <webElementGuid>2ec56333-c6f2-4bef-a06d-40d5a28361a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

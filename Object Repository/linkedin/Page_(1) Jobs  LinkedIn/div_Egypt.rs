@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Egypt</name>
+   <tag></tag>
+   <elementGuidId>30dff960-557c-4e6b-bca5-0130fcc89217</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='basic-result-kzxkun']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jobs-search-box__typeahead-suggestion.jobs-search-box__typeahead-suggestion--no-margin.t-16</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Global Navigation&quot;i >> internal:text=&quot;Egypt&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2001585b-423e-494a-82b7-8d2018d74dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jobs-search-box__typeahead-suggestion jobs-search-box__typeahead-suggestion--no-margin t-16</value>
+      <webElementGuid>08a21338-1b05-4316-98f8-1aff1178e6d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                              Egypt
+                            </value>
+      <webElementGuid>5bb18db1-19df-41fa-a967-1381ad0dc700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic-result-kzxkun&quot;)/div[@class=&quot;jobs-search-box__typeahead-suggestion jobs-search-box__typeahead-suggestion--no-margin t-16&quot;]</value>
+      <webElementGuid>b3b4d5fd-ec1b-4ef3-85a3-267dc624925f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='basic-result-kzxkun']/div</value>
+      <webElementGuid>ea2f6afa-a6cc-455d-8129-f2fd09458f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Egypt']/parent::*</value>
+      <webElementGuid>8b52f284-2a66-4d9d-b926-0acf9b3c4c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>79802109-9df8-4b1c-ab11-5f8edbca361d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                              Egypt
+                            ' or . = '
+                              Egypt
+                            ')]</value>
+      <webElementGuid>ccb48d8e-6a5f-4e8b-813c-df02858a8aad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

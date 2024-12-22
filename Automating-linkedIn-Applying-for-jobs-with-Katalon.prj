@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Automating-linkedIn-Applying-for-jobs-with-Katalon</name>
+   <tag></tag>
+   <UUID>24731354-1e20-4033-a4e3-927e642e5c89</UUID>
+   <createdEdition>ENTERPRISE</createdEdition>
+   <createdVersion>10.0.1</createdVersion>
+   <freeLicense>false</freeLicense>
+   <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.0.1</modifiedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>GENERIC</type>
+</Project>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Jobs</name>
+   <tag></tag>
+   <elementGuidId>5e1dc447-1cc3-435e-bab6-996cb7b819cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.artdeco-pill.artdeco-pill--slate.artdeco-pill--choice.artdeco-pill--2.search-reusables__filter-pill-button.search-reusables__filter-pill-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Jobs&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ecd80d9c-ebc6-4e42-8fbc-2650df5239a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>artdeco-pill artdeco-pill--slate artdeco-pill--choice artdeco-pill--2 search-reusables__filter-pill-button
+       search-reusables__filter-pill-button</value>
+      <webElementGuid>a08ed9fb-4e99-41b3-89a4-c89b6ca91aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c5e9edb7-48bb-4836-94c4-abd738c7e4b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a6deb7d6-fa96-4000-b40f-a3572fa8e8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-artdeco-is-focused</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d87fd403-a6f2-4a0f-9e7e-36857730d203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    
+      Jobs
+    
+  </value>
+      <webElementGuid>37c12bce-07fc-4b27-995f-f4076ccf148f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-reusables__filters-bar&quot;)/ul[@class=&quot;search-reusables__filter-list&quot;]/li[@class=&quot;search-reusables__primary-filter&quot;]/button[@class=&quot;artdeco-pill artdeco-pill--slate artdeco-pill--choice artdeco-pill--2 search-reusables__filter-pill-button
+       search-reusables__filter-pill-button&quot;]</value>
+      <webElementGuid>830666cf-e2b0-40f8-af8a-90618d1f0cc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>aac4455b-4a94-4a3e-a431-eed36f963e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-reusables__filters-bar']/ul/li/button</value>
+      <webElementGuid>42c109e4-045b-438f-bd99-cf04b8dfc312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>9d169028-9ad3-47e9-9e28-28e149432bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+    
+      Jobs
+    
+  ' or . = '
+    
+      Jobs
+    
+  ')]</value>
+      <webElementGuid>6d012747-3205-4673-b83e-3396a7e41114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

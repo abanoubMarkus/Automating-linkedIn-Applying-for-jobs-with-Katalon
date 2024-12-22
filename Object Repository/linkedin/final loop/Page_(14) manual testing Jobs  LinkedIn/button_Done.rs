@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Done</name>
+   <tag></tag>
+   <elementGuidId>aa6f508d-f1e1-4969-ba43-ca56be228505</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dialog content end.'])[1]/preceding::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ember1079</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Done&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9570dfb-cd14-43f2-ae11-e72e871b8883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ember1079</value>
+      <webElementGuid>13c83c87-996e-431c-8bff-12fa3eb537ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>artdeco-button artdeco-button--2 artdeco-button--primary ember-view mlA block</value>
+      <webElementGuid>5730c4e8-d091-42aa-aa36-75b5f74f2d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+    Done
+</value>
+      <webElementGuid>94ee684a-1da1-49b2-92d6-1efcf4694a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ember1079&quot;)</value>
+      <webElementGuid>1fcd2e0a-5677-4c08-9578-56c929bfd271</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ember1079']</value>
+      <webElementGuid>0658b47b-066b-4909-9b44-fd00c8102d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ember1078']/button</value>
+      <webElementGuid>adbe1c39-9f91-442a-b21a-e769c0009ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dialog content end.'])[1]/preceding::button[1]</value>
+      <webElementGuid>2de94753-a803-4a03-9c2d-1160991b8ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>25599d4a-cb31-4cff-8230-19d624eb077b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ember1079' and (text() = '
+
+    Done
+' or . = '
+
+    Done
+')]</value>
+      <webElementGuid>e0a7d5dc-354b-45cd-9207-ca08a3e60b1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

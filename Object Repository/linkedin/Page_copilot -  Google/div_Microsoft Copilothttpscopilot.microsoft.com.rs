@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Microsoft Copilothttpscopilot.microsoft.com</name>
+   <tag></tag>
+   <elementGuidId>793921a7-bc04-40e0-8af0-d92def065121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ixcYae']/div/div/div/div/div/div/div/div/span/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.q0vns</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Microsoft Copilot: Your AI companion Microsoft Copilot https://copilot.microsoft.com&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43d07843-8110-47fa-b6c0-de8726be1c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q0vns</value>
+      <webElementGuid>aabe8bb0-270c-4ffc-a6da-02d0a821f7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Microsoft Copilothttps://copilot.microsoft.com</value>
+      <webElementGuid>302baaf9-795b-443f-a849-0c5f0a0b6438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ixcYae&quot;)/div[@class=&quot;g&quot;]/div[@class=&quot;BYM4Nd&quot;]/div[@class=&quot;eKjLze&quot;]/div[@class=&quot;g&quot;]/div[1]/div[@class=&quot;tF2Cxc&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/div[@class=&quot;notranslate HGLrXd NJjxre iUh30 ojE3Fb&quot;]/div[@class=&quot;q0vns&quot;]</value>
+      <webElementGuid>295e9956-993d-49d3-b1bf-f84815497523</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ixcYae']/div/div/div/div/div/div/div/div/span/a/div/div</value>
+      <webElementGuid>7224f369-1e54-46be-847e-246bdf085d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Copilot: Your AI companion'])[1]/following::div[2]</value>
+      <webElementGuid>d70ee5d7-4ebf-42ab-af4f-9ca6ee035f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نتيجة ويب تضم روابط أقسام الموقع'])[1]/following::div[9]</value>
+      <webElementGuid>84b7b303-7373-4033-91c4-aa74d8eba5ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/div/div</value>
+      <webElementGuid>7d2d22a3-99f1-42ee-ab27-568969f8e48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Microsoft Copilothttps://copilot.microsoft.com' or . = 'Microsoft Copilothttps://copilot.microsoft.com')]</value>
+      <webElementGuid>a2a134c7-a007-47e9-a246-df812a289b7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

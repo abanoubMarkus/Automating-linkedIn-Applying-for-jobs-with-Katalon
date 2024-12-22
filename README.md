@@ -1,15 +1,32 @@
-**this project to is to Automate LinkedIn Appling for jobs with type "Easy Apply"only and make integration with Copilot to answer the question of the Easy Apply**
-the project require some data (email address, password , CV)
-to run this project you have to add your email address and password and open your CV and copy All your CV
-open empty notepad and add your CV and then add this Text
-"
-my current salary = xxxx, my expeted salary = xxxxx,this my Cv and i want to answer question related to this CV, i need your answer to short as u can, for example if i asked a "yes or no"Qeustions your answer should only be "yes" or "no", else i asked a questions and the answer is number ur answer should contain number only,for example if i asked you about how many years of exprience of java? your answer shold be "2" .
-and i don't require visa sponsership now or in the future
-mobile phone number 01xxxxxxxxx
-my country code Egypt(+20)
+*Project Overview*  
+This project aims to automate job applications on LinkedIn for positions with the "Easy Apply" option. Additionally, it integrates with Copilot to intelligently answer the application questions based on provided input data.
 
-"
+*Requirements*  
+To run this project, the following data is needed:  
+- *Email Address*  
+- *Password*  
+- *CV*  
 
-add your info instead of x 
-copy all the notepad
-then run the project
+*Setup Instructions*  
+1. Provide your email address and password.  
+2. Open your CV document, copy its contents, and paste them into an empty text file.  
+3. Append the following text at the end of the file:  
+     
+   My current salary = [xxxx]  
+   My expected salary = [xxxxx]  
+   This is my CV, and I want to answer questions related to this CV.  
+
+   - For "Yes" or "No" questions, the answer should be limited to "Yes" or "No" only.  
+   - For questions requiring a numerical response (e.g., "How many years of experience do you have in Java?"), the answer should contain only the number (e.g., "2").  
+   - I do not require visa sponsorship now or in the future.  
+
+   Mobile phone number: [01xxxxxxxxx]  
+   Country code: Egypt (+20)  
+     
+
+*Key Considerations*  
+Ensure the information provided is accurate and follows the outlined format for seamless integration and optimal performance during the automation process.
+
+--- 
+
+This version organizes the content into clear sections and uses a professional tone to convey the details. Let me know if further refinements are needed!
